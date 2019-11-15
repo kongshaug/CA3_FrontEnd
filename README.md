@@ -1,7 +1,7 @@
 # CA3 Frontend
 ## How to use this Quick-Start Project
 
-## Have a look at the page: http://ca3thebestdomainintheworld.surge.sh/login
+## Have a look at the page: http://ca3thebestdomainintheworld.surge.sh
 
 ### Running this react-app on your computer
 1. Download the React project
